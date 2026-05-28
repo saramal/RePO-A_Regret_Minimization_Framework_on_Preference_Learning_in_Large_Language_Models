@@ -276,10 +276,10 @@ This repository is derived from [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
 If you use this repository, please cite RePO:
 
 ```bibtex
-@inproceedings{kim2026repo,
+@inproceedings{kim2026regret,
   title = {A Regret Minimization Framework on Preference Learning in Large Language Models},
-  author = {Kim, Suhwan and Cho, Taehyun and Kim, GeonHyeong and Kim, YuJin and Jang, Youngsoo and Lee, Moontae and Lee, Jungwoo},
-  booktitle = {Proceedings of the International Conference on Machine Learning},
+  author = {Kim, Suhwan and Cho, Taehyun and Kim, Geonhyeong and Kim, Yujin and Jang, Youngsoo and Lee, Moontae and Lee, Jungwoo},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
   year = {2026}
 }
 ```
