@@ -278,7 +278,7 @@ If you use this repository, please cite RePO:
 ```bibtex
 @inproceedings{kim2026repo,
   title = {A Regret Minimization Framework on Preference Learning in Large Language Models},
-  author = {Suhwan Kim and Taehyun Cho and Geon-Hyeong Kim and Yu Jin Kim and Youngsoo Jang and Moontae Lee and Jungwoo Lee},
+  author = {Kim, Suhwan and Cho, Taehyun and Kim, GeonHyeong and Kim, YuJin and Jang, Youngsoo and Lee, Moontae and Lee, Jungwoo},
   booktitle = {Proceedings of the International Conference on Machine Learning},
   year = {2026}
 }
