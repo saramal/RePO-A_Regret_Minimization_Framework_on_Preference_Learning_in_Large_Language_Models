@@ -1,0 +1,11 @@
+RePO
+Copyright 2026 RePO authors
+
+This repository contains code for "A Regret Minimization Framework on
+Preference Learning in Large Language Models" (ICML 2026 Spotlight).
+
+This repository is built on and adapted from OpenRLHF:
+https://github.com/OpenRLHF/OpenRLHF
+
+OpenRLHF is distributed under the Apache License, Version 2.0.
+Portions of this repository retain or modify OpenRLHF components.

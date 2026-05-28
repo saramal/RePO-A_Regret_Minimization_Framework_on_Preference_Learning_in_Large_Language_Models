@@ -1,0 +1,5 @@
+[INFO] Hostname: gpu03
+[INFO] CUDA_VISIBLE_DEVICES=0
+Unable to find image 'nvidia/cuda:12.2.0-base' locally
+docker: Error response from daemon: manifest for nvidia/cuda:12.2.0-base not found: manifest unknown: manifest unknown.
+See 'docker run --help'.
